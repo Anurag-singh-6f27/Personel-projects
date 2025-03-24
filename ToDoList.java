@@ -1,4 +1,3 @@
-package AI_projects;
 import java.util.ArrayList;
 import java.util.Scanner;
 
