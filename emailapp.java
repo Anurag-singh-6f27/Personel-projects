@@ -33,6 +33,7 @@ public static class email{
     }
     private String setDepartment(){
         System.out.println("Enter the department");
+        System.out.println();
         Scanner sc=new Scanner(System.in);
         String department=sc.nextLine();
         return department;
